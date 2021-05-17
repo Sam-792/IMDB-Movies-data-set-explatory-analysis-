@@ -1,4 +1,4 @@
-# IMDB-Movies-data-set-explatory-analysis-
+# IMDB_Movies_dataset_Exploratory_Analysis
 
 In this data set we will be exploring the IMDB 10,000 movies list collected from the movie data base (IMDB) including user ratings, popularity, release date, cast, budget, revenues and some more features.
 
